@@ -1,5 +1,4 @@
 // use jsx to render html, do not modify simple.html
-import 'rc-notification/assets/index.css';
 import Notification from 'rc-notification';
 import React from 'react';
 import ReactDOM from 'react-dom';
